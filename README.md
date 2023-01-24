@@ -1,4 +1,5 @@
 # FoodNutientsViewController
 This repository aims to create the following layout using UIScrollView.
 
-![IMG_6099_Original](https://user-images.githubusercontent.com/82876741/214325839-94876038-692a-483d-8b0f-a06a96c0cc83.jpg)
+
+<img width="227" alt="Screenshot 2023-01-24 at 8 19 52 PM" src="https://user-images.githubusercontent.com/82876741/214326484-6488f94b-f94a-4353-9b37-2e1d562e145d.png">
